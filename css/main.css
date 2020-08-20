@@ -24,7 +24,7 @@ a{
 }
 
 .home-page{
-    background-image: url("../boma.jpg");
+    background-image: url("../gorila.jpg");
     background-position: cover;
     width: 83%;
     margin: 10px auto;
@@ -63,6 +63,21 @@ footer{
 }
 .sec6{
     padding-bottom: 30px;
+}
+.u3-content{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.ug1{
+    width: 32.9%;
+    float: left;
+}
+.col2{
+    padding-left: 7.5px;
+}
+.ug-columns{
+    padding-top: 30px;
 }
 
 
